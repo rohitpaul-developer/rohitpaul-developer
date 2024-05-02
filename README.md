@@ -37,10 +37,6 @@
 
 <div align="center">
 <a href="https://github.com/rohitpaul-developer">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitpaul-developer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitpaul-developer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitpaul-developer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitpaul-developer&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitpaul-developer&theme=algolia" height="180em" />
 </div>
 
